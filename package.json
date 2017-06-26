@@ -27,6 +27,6 @@
     "jquery": "^2.2.1",
     "jsdom": "^8.1.0",
     "lodash": "^3.10.1",
-    "youtube-api-search": "0.0.5",
+    "youtube-api-search": "0.0.5"
   }
 }
