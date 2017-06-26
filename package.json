@@ -1,9 +1,9 @@
 {
-  "name": "redux-simple-starter",
+  "name": "catube",
   "version": "1.0.0",
-  "description": "Simple Youtube video searcher for Redux with React and Babel support",
+  "description": "Search YouTube from a cat's point of view - single page application using react, babel & youtube-api-search",
   "main": "index.js",
-  "repository": "git@github.com:gloaysa/videoSearcher.git",
+  "repository": "git@github.com:gloaysa/caTube.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
